@@ -8,8 +8,8 @@ Creating a heatmap based on the design from smashingmagazine.com
 
 ## Built With
 
-- HTML,
-- CSS,
+- HTM.
+- CSS.
 
 ## GitHub Repo
 
@@ -29,17 +29,11 @@ Creating a heatmap based on the design from smashingmagazine.com
 
 - Github: [@Salvador-ON](https://github.com/Salvador-ON)
 - Twitter: [@Salvador_ON](https://twitter.com/Salvador_ON)
-- Linkedin: [linkedin](https://www.linkedin.com/in/salvador-olvera-n//
+- Linkedin: [Salvador Olvera](https://www.linkedin.com/in/salvador-olvera-n//
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Microverse
-- Our Families
-- Everyone else
 
 ## 📝 License
 
