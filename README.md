@@ -8,8 +8,8 @@ Creating a heatmap based on the design from smashingmagazine.com
 
 ## Built With
 
-- HTM.
-- CSS.
+- HTML5.
+- CSS3.
 
 ## GitHub Repo
 
